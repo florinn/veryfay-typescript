@@ -67,7 +67,7 @@ Installing
 -------------
 
 ```
-npm veryfay 
+npm install veryfay 
 ```
 
 The distribution directory should contain:
