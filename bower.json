@@ -1,0 +1,42 @@
+{
+  "name": "veryfay",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "~2.0.1",
+    "chai": "~1.10.0"
+  },
+  "version": "0.1.0",
+  "description": "Activity based authorization library for TypeScript",
+  "main": "dist/veryfay.js",
+  "keywords": [
+    "authorization",
+    "engine",
+    "library",
+    "activity",
+    "role",
+    "permission",
+    "typescript",
+    "javascript"
+  ],
+  "homepage": "https://github.com/florinn/veryfay-typescript",
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "src",
+    "test",
+    "tests",
+    ".bowerrc",
+    ".editorconfig",
+    ".gitattributes",
+    ".gitignore",
+    ".jshintrc",
+    ".travis.yml",
+    "*.json",
+    "gulpfile.js",
+    "*.sln",
+	"*.txt",
+    "README.md"
+  ]
+}
