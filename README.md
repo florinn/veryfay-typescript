@@ -2,7 +2,6 @@ Veryfay (TypeScript) [![build badge](https://travis-ci.org/florinn/veryfay-types
 ===================
 
 **Veryfay (TypeScript)** is a library for doing activity based authorization in TypeScript. 
-It is a port to TypeScript of the [**Veryfay**](https://github.com/florinn/veryfay-scala) library in Scala.
 
 It deals with three things: 
 - defining activities and roles
